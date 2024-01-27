@@ -2,7 +2,13 @@
 
 ##
 
+<div align="left">
+
 ![lailsonzw's GitHub stats](https://github-readme-stats.vercel.app/api?username=lailsonzw&show_icons=true&theme=dark)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailsonzw&layout=compact&langs=16&theme=dark"/>
+
+<div>
 
 ##
 
@@ -15,10 +21,10 @@ IDEs e sistemas que utilizo no meu dia:
 
 ##
 
-Tecnologias que eu utilizo no meu dia:
+Linguagens que eu utilizo no meu dia:
 <div style="display: inline_block"><br/>
   <img align="center" alt="Lailsonzw-c" height="30" width="30" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">
-  <img aling="center" alt="Lailsonzw-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img aling="center" alt="Lailsonzw-Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div><br>
 
 ##
