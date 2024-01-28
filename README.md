@@ -2,7 +2,7 @@
 
 ##
 
-<div">
+<div align="left">
  
   ![lailsonzw's GitHub stats](https://github-readme-stats.vercel.app/api?username=lailsonzw&show_icons=true&theme=dark)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailsonzw&layout=compact&langs=16&theme=dark"/>
@@ -33,8 +33,8 @@ Redes sociais:
 <div>
   <a href="https://www.instagram.com/francisco_lailson0?igsh=MW03OGkwY3Z4YXZiMQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagramlogoColor=white" target="_blank"></a>
  
-  <a href="https://www.linkedin.com/in/francisco-lailson-b7611b2a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&
-  logoColor=white" target="_blank"></a> 
+   <a href="www.linkedin.com/in/francisco-lailson-b7611b2a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 </div>
 
 ##
