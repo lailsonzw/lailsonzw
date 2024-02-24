@@ -1,44 +1,28 @@
-### Olá! Eu sou Francisco Lailson 🖐️
+### Hi there 🖖
+   - 🐍 I'm an Back-End Develop.
 
-##
+'try one more timef'
+
 
 <div align="left">
- 
-  ![lailsonzw's GitHub stats](https://github-readme-stats.vercel.app/api?username=lailsonzw&show_icons=true&theme=dark)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailsonzw&layout=compact&langs=16&theme=dark"/>
-
-<div>
-
-##
-
-IDEs e sistemas que utilizo no meu dia:
-<div style="display": inline_block>   
-    <img aling="center" alt="Lailsonzw-VsCode" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img aling="center" alt="Lailsonzw-Ubunto" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-    <img aling="center" alt="Lailzonzw-windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&username=lailsonzw&hide=jupyter%20notebook,tex" height="170" alt="languages graph"  />
 </div>
 
-##
 
-Linguagens que eu utilizo no meu dia:
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Lailsonzw-c" height="30" width="30" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">
-  <img aling="center" alt="Lailsonzw-Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div><br>
 
-##
 
-Redes sociais:
-
-<div>
-  <a href="https://www.instagram.com/francisco_lailson0?igsh=MW03OGkwY3Z4YXZiMQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagramlogoColor=white" target="_blank"></a>
- 
-   <a href="www.linkedin.com/in/francisco-lailson-b7611b2a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="left">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
+  <img aling="center" alt="Lailsonzw-Ubunto" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
 
 </div>
 
-##
 
-A person who seeks a solution for everything ⚙️
 
-##
+**social media**:
+
+<a href="https://www.instagram.com/francisco_lailson0?igsh=MW03OGkwY3Z4YXZiMQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagramlogoColor=white" target="_blank"></a>
+ 
+<a href="www.linkedin.com/in/francisco-lailson-b7611b2a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
